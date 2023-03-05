@@ -1,50 +1,50 @@
 {
-	"Patcher": {
-		"version" : "1.1",
-		"download": "www.download.com"
-	},
-	"Libraries": {
-		"Guna.Charts.WinForm": {
-			"directory": "Guna.Charts",
-			"versions":	{
-				"4.8": {
-					"1.1": {
-						"download": "www.download.com"
-					},
-					"2.2": {
-						"download": "www.download.com"
-					}
-				},
-				"4.7.2": {
-					"1.1": {
-						"download": "www.download.com"
-					},
-					"2.2": {
-						"download": "www.download.com"
-					}
-				}
-			}
-		},
-		"Guna.UI2.WinForm": {
-			"directory": "Guna.Charts",
-			"versions":	{
-				"4.8": {
-					"1.1": {
-						"download": "www.download.com"
-					},
-					"2.2": {
-						"download": "www.download.com"
-					}
-				},
-				"4.7.2": {
-					"1.1": {
-						"download": "www.download.com"
-					},
-					"2.2": {
-						"download": "www.download.com"
-					}
-				}
-			}
-		}
-	}
+   "Patcher":{
+      "version":"1.1",
+      "download":"www.download.com"
+   },
+   "Libraries":{
+      "Guna.Charts.WinForm":{
+         "directory":"Guna.Charts",
+         "versions":{
+            "4.8":{
+               "1.1":{
+                  "download":"www.download.com"
+               },
+               "2.2":{
+                  "download":"www.download.com"
+               }
+            },
+            "4.7.2":{
+               "1.1":{
+                  "download":"www.download.com"
+               },
+               "2.2":{
+                  "download":"www.download.com"
+               }
+            }
+         }
+      },
+      "Guna.UI2.WinForm":{
+         "directory":"Guna.Charts",
+         "versions":{
+            "4.8":{
+               "1.1":{
+                  "download":"www.download.com"
+               },
+               "2.2":{
+                  "download":"www.download.com"
+               }
+            },
+            "4.7.2":{
+               "1.1":{
+                  "download":"www.download.com"
+               },
+               "2.2":{
+                  "download":"www.download.com"
+               }
+            }
+         }
+      }
+   }
 }
